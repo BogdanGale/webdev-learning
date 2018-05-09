@@ -16,7 +16,7 @@ This repository contains all the stuff that I have learned while taking the Udem
 ## Projects:
 
 - [Yelp Camp](https://boiling-depths-49801.herokuapp.com/)
-- [Color Game](https://htmlpreview.github.io/?https://github.com/BogdanGale/webdev-learning/blob/master/6.%20Color%20Game/index.html)
-- [To Do Project](http://htmlpreview.github.io/?https://github.com/BogdanGale/webdev-learning/blob/master/8.%20ToDoProject/index.html)
-- [Patatap Clone](https://github.com/BogdanGale/webdev-learning/tree/master/9.%20Patatap%20Clone)
-- [Blog App](https://github.com/BogdanGale/webdev-learning/tree/master/17.%20RESTful%20Routing/RESTfulBlogApp)
+- [Color Game](http://bogdangale.herokuapp.com/colorgame)
+- [To Do Project](http://bogdangale.herokuapp.com/todo)
+- [Patatap Clone](http://bogdangale.herokuapp.com/patatapclone)
+- [Blog App](https://immense-springs-99285.herokuapp.com/blogs)
